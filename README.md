@@ -10,7 +10,7 @@
 
 ## 报告问题
 
-- [Issues](https://github.com/yanhaijing/template.js/issues "report question")
+- [Issues](https://github.com/FunCodingOfWe/java_FunQuestion/issues "report question")
 
 ## 作者
 
