@@ -5,6 +5,7 @@
 
 ## 目录
   - [趣题一（i++与++i的区别）](/code/Q1_i++.md)
+  - [趣题二（Pass By Value or Pass By Reference）](/code/Q2_PassByValue.md)
 
 
 
