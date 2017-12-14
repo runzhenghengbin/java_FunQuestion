@@ -82,6 +82,8 @@ public class JavaTest {
 ```
 - 结果为[2, 4, 6, 8, 10]
 
+![image](http://p0wnvdgrj.bkt.clouddn.com/arr1.png)
+
 #### 列子2
 ```
 public  class HelloWord {
@@ -97,6 +99,8 @@ public  class HelloWord {
 ```
 - 结果为[1, 2, 3, 4, 5]
 
+![image](http://p0wnvdgrj.bkt.clouddn.com/arr2.png)
+
 #### 例子3
 ```
 public  class HelloWord {
@@ -111,6 +115,9 @@ public  class HelloWord {
 }
 ```
 - 结果[1, 5, 3, 4, 5]
+
+
+![image](http://p0wnvdgrj.bkt.clouddn.com/arr3.png)
 
 #### 例子4
 ```
@@ -142,6 +149,12 @@ public  class HelloWord {
 [1, 2, 3]
 [7, 8, 9]
 ```
+![image](http://p0wnvdgrj.bkt.clouddn.com/arr4.png)
+
+
+change(arr); 之后
+
+![image](http://p0wnvdgrj.bkt.clouddn.com/arr5.png)
 #### 例子5
 
 ```
@@ -171,4 +184,6 @@ public  class HelloWord {
 [4, 5]
 ```
 
-- [ ] 今天感冒了，后续补上图
+- 大家自己画画这个图吧，玩的开心
+
+> ps.大家有没有推荐好的画图软件
